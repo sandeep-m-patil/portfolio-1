@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+.secondary {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+
+  font-style: normal;
+}
+
+.secondary-1 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+
+  font-style: normal;
+}
+
+* {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+
+  
+}
+
+
+/* Position text in the middle of the page/image */
+
+
+
+.main {
+  width: 100%;
+  height: 100%;
+  background-image: url('https://e0.pxfuel.com/wallpapers/398/350/desktop-wallpaper-nillia-webdesign-web-development-management.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 36px 0px;
+}
+
+.txt-center {
+  padding: 10vw 5vw 4vw 5vw;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
+.text-two{
+  color:rgb(145, 113, 248);
+}
